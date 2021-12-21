@@ -29,6 +29,14 @@ We are using the following packages in our flask (v2.0.1) application:
 
 <br />
 
+> Data Downloading
+
+Since the data is large, we stored it in a Google drive. The link is:https://drive.google.com/file/d/1Uug-_etcT_kd9vBLzqN6G1QULWy-GW5-/view?usp=sharing
+Please download it and put it under apps file.
+
+
+<br />
+
 > Installation
 
 ```bash
