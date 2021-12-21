@@ -41,7 +41,7 @@ Please download it and put it under apps file.
 
 ```bash
 $ # Unzip our team018final folder, and in the command prompt navigate to the code/stockmood directory
-$ cd team018final/Code/stockmood
+$ cd 202112-29-StockMood
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
